@@ -1,2 +1,2 @@
 # ClimateMusic
-ClimateData into Music
+Turning environmental data into music
