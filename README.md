@@ -1,2 +1,2 @@
-# Musicorum
+# ClimateMusic
 ClimateData into Music
